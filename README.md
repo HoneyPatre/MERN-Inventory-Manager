@@ -1,5 +1,8 @@
 <h1 align="center">Welcome to ActiveBuildings Inventory Management System 👋</h1>
 <p>
+  <img alt="Homepage" src="Homepage.png"/>
+</p>
+<p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-6.14.5-blue.svg" />
   <img src="https://img.shields.io/badge/node-12.16.3-blue.svg" />
