@@ -16,7 +16,6 @@
 <p>
    Home Page:
   <img alt="Homepage" src="Homepage.png"/>
-  ![Demo](Demo.gif)
 </p>
 > The project, “ActiveBuildings Inventory Managment System” is a simple MERN application consisting of a basic UI for users to enter inventory data, Item Code, Name 1, Name 2, Price, Vendor Name, Date. The entered data is then validated and stored in the database. The inventory information stored in database is fetched and diplayed in a table for users to be able to see the inventory and filter the data based on Date and Vendor Name.
 
@@ -53,3 +52,5 @@ npm start
 * Github: [@HoneyPatre](https://github.com/HoneyPatre)
 * LinkedIn: [@honey-patre](https://linkedin.com/in/honey-patre)
 * Email    :  honeypatre019@gmail.com
+
+![Demo](Demo.gif)
