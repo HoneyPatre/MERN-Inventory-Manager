@@ -36,7 +36,7 @@
 ```sh
 npm i
 ```
-
+Side Note: Enter string values for Item Code, Name 1, Name 2 and Vendor Name. This values are validated as mandatory. If Date and Price is not provided by the user, current date and zero is by default entered in the database.
 ## Usage
 
 ```sh
@@ -51,5 +51,5 @@ npm start
 👤 **Honey Patre**
 
 * Github: [@HoneyPatre](https://github.com/HoneyPatre)
-* LinkedIn: [@honey-patre](https://linkedin.com/in/honey-patre)
+* LinkedIn: [@honey-patre](https://linkedin.com/in/honey-patre-b87591178)
 * Email    :  honeypatre019@gmail.com
