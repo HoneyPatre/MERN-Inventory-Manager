@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to ActiveBuildings Inventory Management System 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D6.14.5-blue.svg" />
+  <img src="https://img.shields.io/badge/npm-6.14.5-blue.svg" />
   <img src="https://img.shields.io/badge/node-12.16.3-blue.svg" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
