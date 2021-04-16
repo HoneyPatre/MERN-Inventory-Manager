@@ -36,8 +36,8 @@
 ```sh
 npm i
 ```
-Client-side Libraries used : Material UI, Material Table, Axios
-Server-side Libraries used : Body Parser, CORS
+* Client-side Libraries used : Material UI, Material Table, Axios
+* Server-side Libraries used : Body Parser, CORS
 
 Side Note: Enter string values for Item Code, Name 1, Name 2 and Vendor Name. This values are validated as mandatory. If Date and Price is not provided by the user, current date and zero is by default entered in the database.
 ## Usage
