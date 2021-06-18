@@ -4,7 +4,7 @@
 
 ![Demo](Demo.gif)
 
-> The project, “MERN-Based Inventory Managment System” is a simple MERN application consisting of a basic UI for users to enter inventory data, Item Code, Name 1, Name 2, Price, Vendor Name, Date. The entered data is then validated and stored in the database. The inventory information stored in database is fetched and diplayed in a table for users to be able to see the inventory and filter the data based on Date and Vendor Name.
+> The project, “MERN-Based Inventory Managment System” is a simple MERN application consisting of a basic UI for users to enter inventory data, Item Code, Name 1, Name 2, Price, Vendor Name, Date. The entered data is then validated and stored in the database. The inventory information stored in database is fetched and diplayed in a table for users to be able to see the inventory and filter the data based on Date and Vendor Name. This project was created as POC for "activeBuildings".
 
 ### 🏠 [Homepage](https://github.com/HoneyPatre/)
 
