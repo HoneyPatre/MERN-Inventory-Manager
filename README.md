@@ -41,4 +41,5 @@ npm start
 
 * Github: [@HoneyPatre](https://github.com/HoneyPatre)
 * LinkedIn: [@honey-patre](https://linkedin.com/in/honey-patre)
+* Youtube: [@honey-patre](https://www.youtube.com/channel/UCVFMjbTF1qmD3YrABDjc40Q)
 * Email    :  honeypatre019@gmail.com
